@@ -56,9 +56,11 @@ examples/example_sdl_opengl3/example_sdl_opengl3
 examples/example_sdl_sdlrenderer/example_sdl_sdlrenderer
 
 ## Custom ignore
-.tlog
-.idb
-.lastbuildstate
-.lib
-.lib.recipe
-.vcxproj
+*.tlog
+*.idb
+*.lastbuildstate
+*.lib
+*.lib.recipe
+*.vcxproj
+bin
+bin-int

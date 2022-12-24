@@ -62,5 +62,8 @@ examples/example_sdl_sdlrenderer/example_sdl_sdlrenderer
 **/*.lib
 **/*.lib.recipe
 **/*.vcxproj
+**/*.vcxproj.filters
+examples/*.vcxproj
+examples/*.vcxproj.filters
 bin
 bin-obj
